@@ -19,11 +19,13 @@
     "@angular/platform-browser": "^11.2.14",
     "@angular/platform-browser-dynamic": "^11.2.14",
     "@angular/router": "^11.2.14",
+    "@types/stacktrace-js": "^2.0.3",
     "bootstrap": "^4.1.1",
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
     "jwt-decode": "^2.2.0",
     "rxjs": "6.6.7",
+    "stacktrace-js": "^2.0.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
